@@ -11211,12 +11211,14 @@ p {
 }
 
 .portfolio .portfolio-container .portfolio-item {
+  border-color: #F85C70;
+  border-style: solid;
   position: relative;
   padding-left: 0;
   padding-right: 0;
   margin: 10px -5px;
   overflow: hidden;
-  border-radius: 2px;
+  border-radius: 6px;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
 }
